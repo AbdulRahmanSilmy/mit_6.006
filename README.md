@@ -8,6 +8,9 @@ This repository contains the programming implementations of algorithms, data str
 - Static arrays
 - Array sequence
 
+## Week2
+- Merge sort
+
 ## Week3 
 - Direct access sort 
 - Counting sort
