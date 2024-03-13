@@ -16,3 +16,5 @@ This repository contains the programming implementations of algorithms, data str
 - Counting sort
 - Radix sort 
 
+## Week4
+- Binary tree
